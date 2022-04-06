@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUANLYNGOCMINH", "QUANLYNGOCMINH\QUANLYNGOCMINH.csproj", "{7CA1DFA3-B2DC-4CAE-9A67-EFFE81E3DBB7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QUANLYNGOCMINHGL", "QUANLYNGOCMINHGL\QUANLYNGOCMINHGL.vdproj", "{06896BF2-7687-4A5D-B1EE-0117342EDBE6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "QUANLYNGOCMINHSUPER", "QUANLYNGOCMINHSUPER\QUANLYNGOCMINHSUPER.vdproj", "{E81937F5-1590-480C-9B56-62A3E97F9D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA1DFA3-B2DC-4CAE-9A67-EFFE81E3DBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA1DFA3-B2DC-4CAE-9A67-EFFE81E3DBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA1DFA3-B2DC-4CAE-9A67-EFFE81E3DBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA1DFA3-B2DC-4CAE-9A67-EFFE81E3DBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06896BF2-7687-4A5D-B1EE-0117342EDBE6}.Debug|Any CPU.ActiveCfg = Debug
+		{06896BF2-7687-4A5D-B1EE-0117342EDBE6}.Release|Any CPU.ActiveCfg = Release
+		{E81937F5-1590-480C-9B56-62A3E97F9D2C}.Debug|Any CPU.ActiveCfg = Debug
+		{E81937F5-1590-480C-9B56-62A3E97F9D2C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17368C1B-3249-4144-A95A-F2306BE14B94}
+	EndGlobalSection
+EndGlobal
